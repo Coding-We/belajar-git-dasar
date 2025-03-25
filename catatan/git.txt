@@ -19,7 +19,7 @@ Create
 Make a Change
 - Git add <file>
 - Git add .
-- Git comot -m “Pesan”
+- Git commit -m “Pesan”
 - Git reset <file>
 - Git reset —hard
 
