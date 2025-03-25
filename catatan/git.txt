@@ -1,0 +1,42 @@
+Belajar Git
+
+Git reset untuk meng cencel yang kita comit 
+Reset css/app.css
+
+Git init untuk memasukan ke ripository
+Git init
+
+Git Add dan nama file nya jika melakukan add nya banyak 
+Git add .
+
+Git melakukan comit, diff dan log
+Comit -m “tulis nama perubahan nya apa”
+
+Create
+- Git init
+- Git clone
+
+Make a Change
+- Git add <file>
+- Git add .
+- Git comot -m “Pesan”
+- Git reset <file>
+- Git reset —hard
+
+Observe
+- Git status
+- Git diff
+- Git show
+- Git log
+
+Sync / mengsingkjronisasi ke server
+- Git push
+- Git pull
+- Git fetch
+- Git remote
+
+Branch
+- Git branch
+- Git checkout
+- Git merge
+- Git tag.
